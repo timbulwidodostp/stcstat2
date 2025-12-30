@@ -1,4 +1,21 @@
-D 'DEA': Data envelopment analysis
+D 'stcstat2': Harrell's c-index (concordance index) for flexible parametric models Use stcstat2 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F rcsgen.ado
+F rcsgen.sthlp
+F rcsgen_example.ado
+F stcstat2.ado
+F stcstat2.sthlp
+F stpm2.ado
+F stpm2.sthlp
+F stpm2_ml_hazard.ado
+F stpm2_ml_hazard_rs.ado
+F stpm2_ml_lf_hazard.ado
+F stpm2_ml_lf_hazard_rs.ado
+F stpm2_ml_lf_normal_rs.ado
+F stpm2_ml_lf_theta.ado
+F stpm2_ml_lf_theta_rs.ado
+F stpm2_ml_normal.ado
+F stpm2_ml_odds.ado
+F stpm2_ml_odds_rs.ado
+F stpm2_postestimation.sthlp
+F stpm2_pred.ado
