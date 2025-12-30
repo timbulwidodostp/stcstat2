@@ -1,0 +1,2 @@
+# stcstat2
+Harrell's c-index (concordance index) for flexible parametric models Use stcstat2 With STATA 19
