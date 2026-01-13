@@ -1,6 +1,8 @@
 # stcstat2
 Harrell's c-index (concordance index) for flexible parametric models Use stcstat2 With STATA 19
 
+https://www.youtube.com/watch?v=xi4drOKVIwo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
